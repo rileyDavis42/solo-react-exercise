@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+
+body {
+  text-align: center;
+  font-family: 'Rubik';
+}
+
+.content-wrapper {
+  margin: 20px;
+}
+
+.header {
+  background-color: #d63031;
+  color: #fff;
+}
+
+.card {
+  background-color: #EDEDED;
+  height: 200px;
+  padding: 10px;
+}
